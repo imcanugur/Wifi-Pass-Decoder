@@ -1,4 +1,4 @@
-# Wifi-Pass-Decoder
+# Wifi Pass Decoder
  
 İlk geliştirmiş olduğum programlardan biri lise projesi olarak tasarlandı.
 Bazı amatör hataları mevcut lütfen mazur görün. 
