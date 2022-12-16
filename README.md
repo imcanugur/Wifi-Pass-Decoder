@@ -6,4 +6,3 @@ Her hangi bir soru için www.ugurcan.live adresinden tüm iletişim bilgilerime 
 
 ![](/Screen/Screen1.png)
 ![](/Screen/Screen2.png)
- 
